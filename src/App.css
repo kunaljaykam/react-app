@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
+
+html,
+body{
+  background-color:#222831;
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.container{
+  margin: 80px auto 0 auto;
+  max-width: 1200px;
+}
+
+.PopoverPopupState{
+  margin-top: 70px;
+  color:red!important;
+ 
+}
+
+
+.logo{
+
+  font-size: 2.5em;
+  margin-left: 3em;
+  font-weight: 600;
+  color: #fa7116;
+
+}
+
+.SearchBar{
+  margin-right: 3em;
+  border-radius: 1px solid white;
+
+}
